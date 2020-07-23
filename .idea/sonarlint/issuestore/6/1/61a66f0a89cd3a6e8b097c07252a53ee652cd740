@@ -1,0 +1,7 @@
+
+^
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ð”„Îüÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñŸÍ©
+O
+java:S1172"9Remove this unused method parameter "googleTraslateData".(èú£Ú
